@@ -1,0 +1,1 @@
+i am applying write mode to my file,if i write one more time my content can be overwritten 
